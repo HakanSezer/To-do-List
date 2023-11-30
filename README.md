@@ -2,6 +2,7 @@
 
 Kod Tamamen MVVM yapısı ve RxSwift ile yazılmıştır.
 Farklı bir uygulama üzerinden destekler alınmıştır fakat geri kalan yazılar bana aittir.
+Extensionslar ayrı tutulmuş olup, TextView içerisine Placeholder eklenmiştir.
 
 
 
